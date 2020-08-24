@@ -1,0 +1,122 @@
+body{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+
+  margin: 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+  color: #66BFBF;
+
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bolder;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+p{
+  color: #40514E;
+}
+
+.top-container{
+  margin: 0px auto;
+  position: relative;
+  padding-top: 100px;
+  background-color: #EAF6F6;
+  padding-bottom: 30px;
+}
+.middle-container{
+  padding-top: 40px;
+  margin-bottom: 50px;
+  line-height: 2;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+  text-align: left;
+;
+}
+.skill-row{
+  width: 50%;
+  text-align: left;
+  margin: 40px auto;
+  line-height: 2;
+}
+.chilli{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.computer{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.bottom-container{
+background-color: #66BFBF;
+padding: 50px 0 20px;
+}
+.img1{
+  position: absolute;
+  top: 50px;
+  right: 250px;
+}
+.img2{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+hr{
+  border: dotted #EAF6F6;
+  width: 6%;
+  margin: 100 auto;
+}
+a{
+  color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+a:hover{
+color: #EAF6F6;
+}
+.para{
+  color: #EAF6F6;
+  font-weight: bolder;
+  font-size: 12px
+}
+.contact-me{
+  margin: 0 auto;
+  text-align: center;
+
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999d);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999d);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999d);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999d);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999d);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  text-shadow: 1px 1px 3px #000000;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #66BFBF;
+  text-decoration: none;
+}
